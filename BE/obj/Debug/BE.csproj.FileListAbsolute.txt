@@ -1,0 +1,12 @@
+C:\Users\Amit\Desktop\Studies 2018\c#\BE_new\bin\Debug\BE_new.dll
+C:\Users\Amit\Desktop\Studies 2018\c#\BE_new\bin\Debug\BE_new.pdb
+C:\Users\Amit\Desktop\Studies 2018\c#\BE_new\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\Amit\Desktop\Studies 2018\c#\BE_new\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Amit\Desktop\Studies 2018\c#\BE_new\obj\Debug\BE_new.dll
+C:\Users\Amit\Desktop\Studies 2018\c#\BE_new\obj\Debug\BE_new.pdb
+C:\Users\Amit\Desktop\Studies 2018\c#\BE\bin\Debug\BE.dll
+C:\Users\Amit\Desktop\Studies 2018\c#\BE\bin\Debug\BE.pdb
+C:\Users\Amit\Desktop\Studies 2018\c#\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Amit\Desktop\Studies 2018\c#\BE\obj\Debug\BE.dll
+C:\Users\Amit\Desktop\Studies 2018\c#\BE\obj\Debug\BE.pdb
+C:\Users\Amit\Desktop\Studies 2018\c#\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache

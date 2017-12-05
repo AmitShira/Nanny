@@ -1,0 +1,17 @@
+C:\Users\Amit\Desktop\Studies 2018\c#\BL\ConsoleAppUI\bin\Debug\ConsoleAppUI.exe.config
+C:\Users\Amit\Desktop\Studies 2018\c#\BL\ConsoleAppUI\bin\Debug\ConsoleAppUI.exe
+C:\Users\Amit\Desktop\Studies 2018\c#\BL\ConsoleAppUI\bin\Debug\ConsoleAppUI.pdb
+C:\Users\Amit\Desktop\Studies 2018\c#\BL\ConsoleAppUI\obj\Debug\ConsoleAppUI.csproj.CoreCompileInputs.cache
+C:\Users\Amit\Desktop\Studies 2018\c#\BL\ConsoleAppUI\obj\Debug\ConsoleAppUI.exe
+C:\Users\Amit\Desktop\Studies 2018\c#\BL\ConsoleAppUI\obj\Debug\ConsoleAppUI.pdb
+C:\Users\Amit\Desktop\Studies 2018\c#\BL\ConsoleAppUI\bin\Debug\BE.dll
+C:\Users\Amit\Desktop\Studies 2018\c#\BL\ConsoleAppUI\bin\Debug\BL.dll
+C:\Users\Amit\Desktop\Studies 2018\c#\BL\ConsoleAppUI\bin\Debug\DAL.dll
+C:\Users\Amit\Desktop\Studies 2018\c#\BL\ConsoleAppUI\bin\Debug\DS.dll
+C:\Users\Amit\Desktop\Studies 2018\c#\BL\ConsoleAppUI\bin\Debug\BE.pdb
+C:\Users\Amit\Desktop\Studies 2018\c#\BL\ConsoleAppUI\bin\Debug\BL.pdb
+C:\Users\Amit\Desktop\Studies 2018\c#\BL\ConsoleAppUI\bin\Debug\DAL.pdb
+C:\Users\Amit\Desktop\Studies 2018\c#\BL\ConsoleAppUI\bin\Debug\DS.pdb
+C:\Users\Amit\Desktop\Studies 2018\c#\BL\ConsoleAppUI\obj\Debug\ConsoleAppUI.csprojResolveAssemblyReference.cache
+C:\Users\Amit\Desktop\Studies 2018\c#\BL\ConsoleAppUI\bin\Debug\GoogleMapsApi.dll
+C:\Users\Amit\Desktop\Studies 2018\c#\BL\ConsoleAppUI\bin\Debug\Newtonsoft.Json.dll
