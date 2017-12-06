@@ -10,7 +10,7 @@
      <Grid>
         <Button Content="Add Child" HorizontalAlignment="Left" Height="41" Margin="-6,263,-5,-2" VerticalAlignment="Top" Width="339" Click="addChildButton_Click"/>
 
-        <Grid x:Name="grid1"  HorizontalAlignment="Left" Margin="36,17,0,0" VerticalAlignment="Top" Height="172" Width="237">
+        <Grid x:Name="grid1"  HorizontalAlignment="Left" Margin="36,17,0,0" VerticalAlignment="Top" Height="202" Width="237">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="Auto"/>
                 <ColumnDefinition Width="Auto"/>

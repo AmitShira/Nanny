@@ -58,7 +58,7 @@ namespace ConsoleAppUI
             Mother amother = Mybl.getAllMothers(m => m.ID == "222").FirstOrDefault();
             Nanny nanny = N1;
             Child enfant = ch1;
-            Contract contract = new Contract {  ChildID= ch1.ID, MotherID= amother.ID, NannyID=nanny.ID}
+            Contract contract = new Contract { ChildID = ch1.ID, MotherID = amother.ID, NannyID = nanny.ID };
             Mybl.AddContract(contract);
             foreach (var item in Mybl.getAllMothers())
             {

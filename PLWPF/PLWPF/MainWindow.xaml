@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PLWPF"
         mc:Ignorable="d"
-        Title="MainWindow" Height="554.128" Width="896.081">
-    <Grid Margin="32,0,90,26">
+        Title="MainWindow" Height="554.128" Width="898.081">
+    <Grid Margin="32,0,90,126">
         <Grid.RowDefinitions>
             <RowDefinition Height="237*"/>
             <RowDefinition Height="260*"/>
@@ -17,7 +17,7 @@
             <ColumnDefinition Width="54*"/>
             <ColumnDefinition Width="270*"/>
         </Grid.ColumnDefinitions>
-        <Image HorizontalAlignment="Left" Margin="-46,-16,-97,-187" Width="909" Source="Image/NAANY.jpg" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="4" Grid.RowSpan="2" >
+        <Image HorizontalAlignment="Left" Margin="-32,-63,-119,-124" Width="919" Source="Image/NAANY.jpg" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="4" Grid.RowSpan="2" >
             <Image.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -28,8 +28,8 @@
             </Image.RenderTransform>
         </Image>
 
-        <Button Content="Mother" HorizontalAlignment="Left" Margin="68,84,-52,0" VerticalAlignment="Top" Width="229" Height="78" Click="Button_Click" FontFamily="Script MT Bold" IsCancel="True" FontSize="36" Background="#FFA9A6F1" Foreground="White" Grid.Column="3"/>
-        <Button Content="Nanny" Height="81" Margin="81,218,-58,0" VerticalAlignment="Top" FontFamily="Script MT Bold" IsCancel="True" FontSize="36" Background="#FFA9A6F1" Foreground="White" Grid.Column="3" Grid.RowSpan="2"/>
+        <Button Content="Mother" HorizontalAlignment="Left" Margin="68,84,-52,0" VerticalAlignment="Top" Width="229" Height="78" Click="Button_Click_Mother" FontFamily="Script MT Bold" IsCancel="True" FontSize="36" Background="#FFA9A6F1" Foreground="White" Grid.Column="3"/>
+        <Button Content="Nanny" Height="81" Margin="81,218,-58,0" VerticalAlignment="Top" FontFamily="Script MT Bold" IsCancel="True" Click="Button_Click_Nanny" FontSize="36" Background="#FFA9A6F1" Foreground="White" Grid.Column="3" Grid.RowSpan="2"/>
         <Label Content="Nanny for you" HorizontalAlignment="Left" Height="56" Margin="76,127,-80,0" VerticalAlignment="Top" Width="249" FontSize="36" FontWeight="Bold" FontFamily="Script MT Bold" Grid.Column="3" Grid.Row="1"/>
         <Label Content="בס&quot;ד" HorizontalAlignment="Left" Height="30" Margin="153.896,2,-9.896,0" VerticalAlignment="Top" Width="76" RenderTransformOrigin="-0.58,-0.1" Grid.Column="3"/>
 

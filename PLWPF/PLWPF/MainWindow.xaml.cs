@@ -25,10 +25,17 @@ namespace PLWPF
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void Button_Click_Mother(object sender, RoutedEventArgs e)
         {
-            //AddChildWindow addChildWindow = new AddChildWindow();
-            //addChildWindow.ShowDialog();
+            MotherActivities motheractivities = new MotherActivities();
+            motheractivities.ShowDialog();
+        }
+
+        private void Button_Click_Nanny(object sender, RoutedEventArgs e)
+        {
+            //NannyActivities nannyactivities = new NannyActivities();
+            // nannyactivities.ShowDialog();
         }
     }
 }
+

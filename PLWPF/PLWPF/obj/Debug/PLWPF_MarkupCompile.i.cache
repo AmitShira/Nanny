@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Amit\Desktop\Studies 2018\c#\PLWPF\PLWPF\obj\Debug\
+C:\Users\Amit\Desktop\Studies 2018\c#\NAN\Nanny\PLWPF\PLWPF\obj\Debug\
 PLWPF
 none
 false
 DEBUG;TRACE
-C:\Users\Amit\Desktop\Studies 2018\c#\PLWPF\PLWPF\App.xaml
-2-1384950644
+C:\Users\Amit\Desktop\Studies 2018\c#\NAN\Nanny\PLWPF\PLWPF\App.xaml
+51694091442
 
-10208518337
-15-731107101
-AddChildWindow.xaml;MainWindow.xaml;
+13-1538705898
+15-3541354
+AddChildWindow.xaml;AddMotherWindow.xaml;MainWindow.xaml;MotherActivities.xaml;UpdateMother.xaml;
 
 False
 

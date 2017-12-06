@@ -8,3 +8,13 @@ C:\Users\Amit\Desktop\Studies 2018\c#\DAL\bin\Debug\DS.pdb
 C:\Users\Amit\Desktop\Studies 2018\c#\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 C:\Users\Amit\Desktop\Studies 2018\c#\DAL\obj\Debug\DAL.dll
 C:\Users\Amit\Desktop\Studies 2018\c#\DAL\obj\Debug\DAL.pdb
+C:\Users\Amit\Desktop\Studies 2018\c#\NAN\Nanny\DAL\bin\Debug\DAL.dll
+C:\Users\Amit\Desktop\Studies 2018\c#\NAN\Nanny\DAL\bin\Debug\DAL.pdb
+C:\Users\Amit\Desktop\Studies 2018\c#\NAN\Nanny\DAL\bin\Debug\BE.dll
+C:\Users\Amit\Desktop\Studies 2018\c#\NAN\Nanny\DAL\bin\Debug\DS.dll
+C:\Users\Amit\Desktop\Studies 2018\c#\NAN\Nanny\DAL\bin\Debug\BE.pdb
+C:\Users\Amit\Desktop\Studies 2018\c#\NAN\Nanny\DAL\bin\Debug\DS.pdb
+C:\Users\Amit\Desktop\Studies 2018\c#\NAN\Nanny\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Amit\Desktop\Studies 2018\c#\NAN\Nanny\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Amit\Desktop\Studies 2018\c#\NAN\Nanny\DAL\obj\Debug\DAL.dll
+C:\Users\Amit\Desktop\Studies 2018\c#\NAN\Nanny\DAL\obj\Debug\DAL.pdb

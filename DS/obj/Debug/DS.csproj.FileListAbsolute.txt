@@ -6,3 +6,11 @@ C:\Users\Amit\Desktop\Studies 2018\c#\DS\bin\Debug\BE.dll
 C:\Users\Amit\Desktop\Studies 2018\c#\DS\bin\Debug\BE.pdb
 C:\Users\Amit\Desktop\Studies 2018\c#\DS\obj\Debug\DS.dll
 C:\Users\Amit\Desktop\Studies 2018\c#\DS\obj\Debug\DS.pdb
+C:\Users\Amit\Desktop\Studies 2018\c#\NAN\Nanny\DS\bin\Debug\DS.dll
+C:\Users\Amit\Desktop\Studies 2018\c#\NAN\Nanny\DS\bin\Debug\DS.pdb
+C:\Users\Amit\Desktop\Studies 2018\c#\NAN\Nanny\DS\bin\Debug\BE.dll
+C:\Users\Amit\Desktop\Studies 2018\c#\NAN\Nanny\DS\bin\Debug\BE.pdb
+C:\Users\Amit\Desktop\Studies 2018\c#\NAN\Nanny\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\Amit\Desktop\Studies 2018\c#\NAN\Nanny\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Users\Amit\Desktop\Studies 2018\c#\NAN\Nanny\DS\obj\Debug\DS.dll
+C:\Users\Amit\Desktop\Studies 2018\c#\NAN\Nanny\DS\obj\Debug\DS.pdb

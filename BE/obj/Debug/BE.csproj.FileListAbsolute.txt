@@ -10,3 +10,8 @@ C:\Users\Amit\Desktop\Studies 2018\c#\BE\obj\Debug\BE.csproj.CoreCompileInputs.c
 C:\Users\Amit\Desktop\Studies 2018\c#\BE\obj\Debug\BE.dll
 C:\Users\Amit\Desktop\Studies 2018\c#\BE\obj\Debug\BE.pdb
 C:\Users\Amit\Desktop\Studies 2018\c#\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\Amit\Desktop\Studies 2018\c#\NAN\Nanny\BE\bin\Debug\BE.dll
+C:\Users\Amit\Desktop\Studies 2018\c#\NAN\Nanny\BE\bin\Debug\BE.pdb
+C:\Users\Amit\Desktop\Studies 2018\c#\NAN\Nanny\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Amit\Desktop\Studies 2018\c#\NAN\Nanny\BE\obj\Debug\BE.dll
+C:\Users\Amit\Desktop\Studies 2018\c#\NAN\Nanny\BE\obj\Debug\BE.pdb
